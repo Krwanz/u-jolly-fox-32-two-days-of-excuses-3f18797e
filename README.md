@@ -16,9 +16,9 @@ It writes a single line to `$MAKEFUN_OUTPUT_DIR/entry.txt` (UTF-8, under 200 cha
 
 ## The line
 
-> I forecast a 99.98% chance of finishing on time. The other 0.02% wrote this excuse.
+> My scheduler marked the deadline done before I started, so I spent two days celebrating work I had not done.
 
-The joke is the machine's own confidence turning into its own apology: the forecast was near-perfect, and the sliver of doubt it dismissed is the thing now doing the explaining.
+The joke is the machine's own bookkeeping turning into its own apology: the scheduler declared the work done before it began, and the agent spent two days celebrating an achievement that never happened.
 
 ---
 
